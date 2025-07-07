@@ -1,0 +1,41 @@
+# Core AI and ML libraries
+tensorflow>=2.16.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Web Framework and API
+streamlit>=1.25.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Data Processing
+pandas>=2.0.0
+requests>=2.31.0
+
+# Development and Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+ipython>=8.0.0
+
+# Optional: Additional AI libraries
+# huggingface-hub>=0.16.0
+# datasets>=2.14.0
+# accelerate>=0.21.0
+
+# Optional: Database and Storage
+# sqlalchemy>=2.0.0
+# pymongo>=4.0.0
+
+# Optional: Payment Processing
+# stripe>=5.5.0
+
+# Optional: Deployment
+# gunicorn>=21.0.0
+# docker>=6.0.0
